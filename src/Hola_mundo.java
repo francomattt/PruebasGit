@@ -5,6 +5,7 @@ public class Hola_mundo {
 		// TODO Auto-generated method stub
 		System.out.println("holaMundo");
 		//commit 1 en rama2
+		//commit 2 en rama2
 	}
 
 }
