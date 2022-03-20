@@ -11,6 +11,8 @@ public class Hola_mundo {
 		//commit 2 en rama2
 		
 		System.out.println("aca creando otro commit");
+		System.out.println("aca creando otro commit 2");
+
 
 	}
 
