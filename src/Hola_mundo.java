@@ -5,6 +5,7 @@ public class Hola_mundo {
 		// TODO Auto-generated method stub
 		System.out.println("holaMundo");
 		System.out.println("segunda rama");
+		int a = 0;
 	}
 
 }
